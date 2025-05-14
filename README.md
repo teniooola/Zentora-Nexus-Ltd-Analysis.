@@ -35,6 +35,6 @@ These skills ensured a thorough and insightful analysis of Zentora Nexus Ltd's r
 
 ## Data Modelling
 
- Data in Excel              |               Data in Power BI 
-:----------------------:    |           :----------------------:   
- ![](excel view.jpg).       |             ![](Dirty data set.jpg).
+ Data in Excel              | Data in Power BI 
+:----------------------:    | :----------------------:   
+![](excel view.jpeg)         | ![](Dirty data.jpeg)
