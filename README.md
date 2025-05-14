@@ -37,5 +37,4 @@ These skills ensured a thorough and insightful analysis of Zentora Nexus Ltd's r
 
  Data in Excel              |               Data in Power BI 
 :----------------------:    |           :----------------------:   
-
-![](excel view.PNG)                        ![](Dirty data set.PNG)
+ ![](excel view.jpg).       |             ![](Dirty data set.jpg).
